@@ -28,7 +28,7 @@ class MainActivity : ComponentActivity() {
         setContent {
             DiceRollerTheme {
                 Surface(
-                    color = Color(0xFF011924)
+                    color = Color(0xFF073042)
                 ) {
                     DiceRollerApp()
                 }
